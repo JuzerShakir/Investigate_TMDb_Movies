@@ -37,7 +37,7 @@ This project goes through the data analysis process and see how everything fits 
 
 ### What did I learn?
 
-After completing the project, you have:
+After completing the project, I have:
  - Know all the steps involved in a typical data analysis process.
  - Comfortable posing questions that can be answered with a given dataset and then answering those questions.
  - Know how to investigate problems in a dataset and wrangle the data into a format that can be used.
