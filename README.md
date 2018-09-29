@@ -2,7 +2,7 @@
 # Investigate a Dataset
 ## Project: Investigate TMDb Movie Database 
 
-<p align="center"><img src="TMDb_movie.jpg"></p>
+<p align="center"><img src="logo.jpg"></p>
 
 ----
 
