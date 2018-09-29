@@ -91,7 +91,12 @@ or
 jupyter notebook report.ipynb
 ```
 
-This will open the Jupyter/iPython Notebook software and project file in your browser.
+or if you have 'Jupyter Lab' installed
+```bash
+jupyter lab
+```
+
+This will open the Jupyter/iPython Notebook software and project file/folder in your browser.
 
 -----
 
