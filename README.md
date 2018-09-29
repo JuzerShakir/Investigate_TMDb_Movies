@@ -47,10 +47,11 @@ In this project, I'll go through the data analysis process and see how everythin
 
 #### Files
 
-This project contains 2 files and 1 folder:
-- `tmdb_movies_data.csv` : The dataset file containing 10k+ entries of movies that I have worked on. 
-- `Investigating_Database.ipynb` : The investigation of the dataset has been done in this jupyter notebook file. 
+This project contains 2 files and 2 folder:
+- `data.csv` : The dataset file containing 10k+ entries of movies that I have worked on. 
+- `report.ipynb` : The investigation of the dataset has been done in this jupyter notebook file. 
 - `export/` : Folder containing HTML and PDF file of notebook.
+- `plots/`  : Contains images of all the plots that are displayed in `report.ipynb` file.
 
 #### Dataset file
 
@@ -83,11 +84,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `Investigate_TMDb_Movies/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook Investigating_Database.ipynb
+ipython notebook report.ipynb
 ```  
 or
 ```bash
-jupyter notebook Investigating_Database.ipynb
+jupyter notebook report.ipynb
 ```
 
 This will open the Jupyter/iPython Notebook software and project file in your browser.
